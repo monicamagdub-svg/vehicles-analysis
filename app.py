@@ -10,7 +10,7 @@ st.set_page_config(
 
 st.title("Dashboard: Anuncios de venta de coches (USA)")
 st.caption(
-    "By: Monica Magdub Lopez
+    "By: Monica Magdub Lopez"
 )
 
 # ---------------- Load data ----------------
