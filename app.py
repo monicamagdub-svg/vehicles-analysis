@@ -10,8 +10,7 @@ st.set_page_config(
 
 st.title("Dashboard: Anuncios de venta de coches (USA)")
 st.caption(
-    "Explora el dataset con filtros, tabla y visualizaciones interactivas "
-    "(Plotly + Streamlit)."
+    "By: Monica Magdub Lopez
 )
 
 # ---------------- Load data ----------------
